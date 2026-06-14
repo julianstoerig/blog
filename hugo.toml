@@ -1,6 +1,6 @@
 baseURL = "http://localhost:1313/"
 languageCode = "en-gb"
-title = "Julian's Signal Lab"
+title = "Julian's Lab"
 theme = "PaperMod"
 
 [params]
@@ -15,8 +15,8 @@ theme = "PaperMod"
   math = true
 
 [params.homeInfoParams]
-  Title = "Julian's Signal Lab"
-  Content = "RF engineering, radio astronomy, and measurement-based experiments."
+  Title = "Julian's Lab"
+  Content = "RF engineering, radio astronomy and miscellanea."
 
 [[menu.main]]
   identifier = "posts"

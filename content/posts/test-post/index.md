@@ -13,7 +13,7 @@ This is just a test post.
 Some maths:
 
 $$
-y = mx + b - \log(5)
+y = mx + b
 $$
 
 ## Code
