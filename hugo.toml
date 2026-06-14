@@ -29,3 +29,15 @@ theme = "PaperMod"
   name = "Tags"
   url = "/tags/"
   weight = 20
+
+[[menu.main]]
+  identifier = "impressum"
+  name = "Impressum"
+  url = "/impressum/"
+  weight = 90
+
+[[menu.main]]
+  identifier = "privacy"
+  name = "Privacy"
+  url = "/privacy/"
+  weight = 100

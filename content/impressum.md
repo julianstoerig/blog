@@ -11,7 +11,7 @@ Münchener Straße 11
 82211 Herrsching am Ammersee  
 Deutschland
 
-E-Mail: prn5mdyv5@mozmail.com
+E-Mail: `prn5mdyv5 at mozmail dot com`
 
 ## Verantwortlich für den Inhalt
 
