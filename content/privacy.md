@@ -43,4 +43,4 @@ This website may contain links to external websites. If you follow such a link, 
 
 Under the GDPR, you may have rights to access, rectification, erasure, restriction of processing, data portability, objection, and the right to lodge a complaint with a supervisory authority.
 
-For privacy-related questions, contact: prn5mdyv5@mozmail.com
+For privacy-related questions, contact: `prn5mdyv5 at mozmail dot com`
