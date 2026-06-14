@@ -1,3 +1,31 @@
-baseURL = 'https://example.org/'
-locale = 'en-us'
-title = 'My New Hugo Project'
+baseURL = "http://localhost:1313/"
+languageCode = "en-gb"
+title = "Julian's Signal Lab"
+theme = "PaperMod"
+
+[params]
+  defaultTheme = "light"
+  disableThemeToggle = false
+  ShowReadingTime = false
+  ShowCodeCopyButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowToc = true
+  TocOpen = false
+  math = true
+
+[params.homeInfoParams]
+  Title = "Julian's Signal Lab"
+  Content = "RF engineering, radio astronomy, and measurement-based experiments."
+
+[[menu.main]]
+  identifier = "posts"
+  name = "Posts"
+  url = "/posts/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "tags"
+  name = "Tags"
+  url = "/tags/"
+  weight = 20
