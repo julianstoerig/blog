@@ -17,7 +17,7 @@ theme = "PaperMod"
 
 [params.homeInfoParams]
   Title = "Julian's Lab"
-  Content = "RF engineering, radio astronomy and miscellanea."
+  Content = "RF engineering, Amateur Radio (DD4JS), Radio Astronomy and Miscellanea."
 
 [[menu.main]]
   identifier = "posts"
